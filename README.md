@@ -1,4 +1,5 @@
 SQLite Database - rocketNotesAPI
+
 Welcome to my first database project built with SQLite, Express, and Knex! In this README, I will provide an overview of the project and details about the technologies used.
 
 Project Overview
