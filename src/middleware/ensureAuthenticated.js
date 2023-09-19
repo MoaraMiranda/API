@@ -20,7 +20,7 @@ function ensureAuthenticated(request, response, next) {
 
     return next();
   } catch {
-    throw AppError("Invalid token", 401);
+    throw new AppError("Invalid token", 401);
   }
 }
 
